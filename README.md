@@ -17,6 +17,7 @@ Tested on Win64
 
 * Install OpenFL
 > haxelib install openfl
+
 > haxelib run openfl setup
 > > To verify if openfl is correctly installed write in shell
 > > openfl
